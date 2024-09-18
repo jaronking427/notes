@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "3963717d86582fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a39d8670f1def1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171aebe3235a066c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science 2/Lecture 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eea4af8cac2be70a",
+    "type": "split",
+    "children": [
+      {
+        "id": "95facbb26c068ecd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a94aa6c24a4315",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95f17103f9324797",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e826fdcd1cb22a35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a72900c3f455645",
+    "type": "split",
+    "children": [
+      {
+        "id": "2752c64c3063e668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1695a4a1dd1e0fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science 2/Lecture 10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e697f2ae9aaf5a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science 2/Lecture 10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e51588cf99e4ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "632a738350fcbec3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science 2/Lecture 10.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "171aebe3235a066c",
+  "lastOpenFiles": [
+    "notes",
+    "Computer Science 2/Lecture 09.md",
+    "Computer Science 2/Lecture 10.md",
+    "Critical Thinking/Lecture 07.md",
+    "Computer Science 2/Lecture 07.md",
+    "Computer Science 2/Lecture 08.md",
+    "Critical Thinking/Lecture 06.md",
+    "Critical Thinking/Lecture 05.md",
+    "Computer Science 2/Recitation 03.md",
+    "Computer Science 2/Recitation 02.md",
+    "Computer Science 2/Lecture 05.md",
+    "Computer Science 2/Lecture 06.md",
+    "Computer Science 2/Untitled",
+    "Critical Thinking/Lecture 04.md",
+    "Critical Thinking/Lecture 03.md",
+    "Critical Thinking/Lecture 02.md",
+    "Computer Science 2/Lecture 02.md",
+    "Computer Science 2/Parts/Arrays.md",
+    "Critical Thinking/Parts/Argument.md",
+    "Critical Thinking/Recitation 02.md",
+    "Critical Thinking/Parts/Conclusion.md",
+    "Critical Thinking/Parts/Declarative Statements.md",
+    "Critical Thinking/Parts/Validity.md",
+    "Critical Thinking/Parts/Formal Logic.md",
+    "Critical Thinking/Parts/Premise.md",
+    "Critical Thinking/Parts/Induction.md",
+    "Critical Thinking/Parts/Non-Declarative Statement.md",
+    "Computer Science 2/Parts",
+    "Critical Thinking/Parts",
+    "Critical Thinking",
+    "Computer Science 2"
+  ]
+}

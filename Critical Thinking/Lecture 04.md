@@ -1,0 +1,47 @@
+#phil1440 
+## Logical Form
+- Content vs form
+- Logical constants 
+	- 'and', 'or', 'not'
+	- "if    Then" "if and only if" 
+	- These are logical constants because they have truth functionality
+	- Connective(Takes a sentence -> Spits out a new sentence)
+	- One can calculate the truth of a bigger sentence from the values of the inputs
+- Formal Validity
+- Formal logic 
+	- Propositional logic (Inside formal logic)
+		- Truth functional logic <- Another name for formal logic 
+- [[Validity|Deductive Validity]]
+	- Formal Validity (As a special case)
+		- An argument is formally valid if it has a valid form
+		- Venn diagram 
+			- Widercircle is a valid argument 
+			- inner circle is a formally valid argument 
+		- Example 1
+			- **if** it is raining **then** jenny is upset
+			- Its raining 
+			- so jenny is upset 
+		- Example 2 
+			- **If** its day **then** its hot 
+			- it is day 
+			- therefore it is hot
+		- Both arguments follow the If a then be: a: therefore b
+			- They both follow the "Logical form"
+		- Example 3:
+			- Either jenny is happy **or** sad
+				- Ask first what is the logical form of this premise????
+				- A **or** B
+		- Example 4:
+			- **If** it rains **or** snows, **Then** the floor will be wet tomorrow
+				- _What is the logical form?_
+				- _How to formalize this_ (Identification of the logical form)
+					- **if** (A **or** B) **then** C
+		- Example 5:
+			- **If** there is evil, **Then** there is no God
+			- There is evil
+			- Therefore there is no God
+				- If A then B
+				- A
+				- B
+		- Abstraction is good because it allows us to look at the form rather than the argument as a whole
+		- 
