@@ -46,5 +46,16 @@ int main(){
 }
 ```
 ```cpp
+struct Student{
+	std::string name;
+	int age;
+	Student * next;
+};
+int main(){
+	Student * head  = new Student;
+	Student * node2 = new Student;
+	head->next = node2;	
+	node2->next = nullptr;
+}
 
 ```

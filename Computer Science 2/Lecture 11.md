@@ -1,0 +1,44 @@
+#csci2270 
+## Exam Review 
+#### 1. CPP Fundamentals
+- Declare vars
+- Compiling 
+- Var type
+- Structs
+	- Definition syntax 
+	- Member data 
+		- Class: private by default
+		- Structs: public by default
+	- No member functions (csci 2270 convention)
+	- Array of structs
+	- Array as a member of a struct definition
+	- Pointer to a struct
+		- Dereferance
+		- Assign
+- Classes 
+	- Same as a struct plus private vs public
+	- Overloading 
+	- constructors 
+	- member functions 
+	- 
+- cmd line args
+	- argc argv[]
+	- argc >= 1 always
+- Pointers
+	- Pointer syntax
+		- `*` <- Declaration/dereferance
+		- `&` <- Address of operator/Pass by referance 
+		- `->` <- Accesses member data
+	- "Data" space vs address space
+- Call stack vs Heap
+	- syntax 
+	- conceptual
+	- allocation, deallocation
+- Parameter passing: by-val, by-ref, by-ptr, by-arr
+- Arr doubling
+- List
+	- Array
+	- Single linked list
+- Library 
+	- std::getline();
+	- 
