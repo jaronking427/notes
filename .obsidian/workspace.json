@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a39d8670f1def1e",
+        "id": "595123dc068cb27a",
         "type": "tabs",
         "children": [
           {
-            "id": "171aebe3235a066c",
+            "id": "7ea887c0fc8def10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 2/Lecture 10.md",
+                "file": "Computer Science 2/Lecture 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 2/Lecture 10.md",
+                "file": "Computer Science 2/Lecture 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science 2/Lecture 10.md",
+                "file": "Computer Science 2/Lecture 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 2/Lecture 10.md"
+                "file": "Computer Science 2/Lecture 13.md"
               }
             }
           }
@@ -146,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "171aebe3235a066c",
+  "active": "7ea887c0fc8def10",
   "lastOpenFiles": [
-    "notes",
-    "Computer Science 2/Lecture 09.md",
+    "Computer Science 2/Lecture 12.md",
+    "Critical Thinking/Parts/Declarative Statements.md",
+    "Critical Thinking/Parts/Formal Logic.md",
+    "Critical Thinking/Lecture 02.md",
+    "Computer Science 2/Lecture 13.md",
+    "Critical Thinking/Lecture 10.md",
+    "Critical Thinking/Lecture 09.md",
+    "Critical Thinking/Lecture 08.md",
+    "Computer Science 2/Lecture 11.md",
+    "Computer Science 2/Lecture 05.md",
+    "Computer Science 2/Lecture 03.md",
+    "Computer Science 2/Recitation 01.md",
+    "Computer Science 2/Recitation 02.md",
+    "Computer Science 2/Recitation 03.md",
     "Computer Science 2/Lecture 10.md",
-    "Critical Thinking/Lecture 07.md",
-    "Computer Science 2/Lecture 07.md",
+    "Computer Science 2/Lecture 09.md",
     "Computer Science 2/Lecture 08.md",
+    "Computer Science 2/Lecture 07.md",
+    "Computer Science 2/Lecture 06.md",
+    "Computer Science 2/Lecture 04.md",
+    "Computer Science 2/Lecture 02.md",
+    "Critical Thinking/Lecture 07.md",
+    "notes",
     "Critical Thinking/Lecture 06.md",
     "Critical Thinking/Lecture 05.md",
-    "Computer Science 2/Recitation 03.md",
-    "Computer Science 2/Recitation 02.md",
-    "Computer Science 2/Lecture 05.md",
-    "Computer Science 2/Lecture 06.md",
     "Computer Science 2/Untitled",
     "Critical Thinking/Lecture 04.md",
     "Critical Thinking/Lecture 03.md",
-    "Critical Thinking/Lecture 02.md",
-    "Computer Science 2/Lecture 02.md",
-    "Computer Science 2/Parts/Arrays.md",
-    "Critical Thinking/Parts/Argument.md",
-    "Critical Thinking/Recitation 02.md",
-    "Critical Thinking/Parts/Conclusion.md",
-    "Critical Thinking/Parts/Declarative Statements.md",
-    "Critical Thinking/Parts/Validity.md",
-    "Critical Thinking/Parts/Formal Logic.md",
-    "Critical Thinking/Parts/Premise.md",
-    "Critical Thinking/Parts/Induction.md",
-    "Critical Thinking/Parts/Non-Declarative Statement.md",
     "Computer Science 2/Parts",
     "Critical Thinking/Parts",
     "Critical Thinking",
