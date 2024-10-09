@@ -90,4 +90,13 @@ void Stack::disp(){
 		current_node = current_node->next;
 	}
 }
+Stack::~Stack(){
+	Node* current_node;
+	current_node = top;
+	while(current_node != nullptr){
+		top=top->next;
+		delete current_node;
+		current_node = top;
+	}
+}
 ```
